@@ -1,8 +1,11 @@
 {
-  "name": "angulartics-intercom",
+  "name": "angulartics-intercom-extended",
+  "version": "0.3.1",
+  "homepage": "https://github.com/Ridestore/angulartics-intercom",
+  "description": "Intercom plugin for Angulartics",
   "main": "lib/angulartics-intercom.js",
   "dependencies": {
-    "angulartics": "~1.0.0"
+    "angulartics": "^1.0.0"
   },
   "ignore": [
     "**/.*",
